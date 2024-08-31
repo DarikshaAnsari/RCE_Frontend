@@ -10,10 +10,10 @@ Remote Code Executor (RCE) as the name suggests, is an online code executor like
 ## Hosted URL
 #### Frontend
 - [Hosted Link](https://rce-nine.vercel.app)
-- [Repo Link](https://github.com/sohan2410/RCE-frontend)
+- [Repo Link](https://github.com/DarikshaAnsari/RCE_Frontend)
 #### Backend
 - [Hosted Link](https://3m0vak6ytg.execute-api.ap-south-1.amazonaws.com/default/test)
-- [Repo Link](https://github.com/sohan2410/RCE-backend)
+- [Repo Link](https://github.com/DarikshaAnsari/RCE_Backend)
 ## Features Implemented
 
 - Infinitely Scalable Code
@@ -45,9 +45,9 @@ Remote Code Executor (RCE) as the name suggests, is an online code executor like
 ## Local Setup
 
 ### Frontend
-1. Clone frontend repository from [here](https://github.com/sohan2410/RCE-frontend.com)
+1. Clone frontend repository from [here](https://github.com/DarikshaAnsari/RCE_Frontend)
 ```shell
-git clone https://github.com/sohan2410/RCE-frontend.git
+git clone https://github.com/DarikshaAnsari/RCE_Frontend.git
 ```
 2.  Install all package dependencies (one time operation)
 ```shell
@@ -61,7 +61,7 @@ npm run dev
 ### Backend
 1. Clone backend repository from [here](https://github.com/sohan2410/RCE-backend)
 ```shell
-git clone https://github.com/sohan2410/RCE-backend.git
+git clone https://github.com/DarikshaAnsari/RCE_Backend.git
 ```
 2.  Install all package dependencies (one time operation)
 ```shell
@@ -71,8 +71,3 @@ npm install
 ```shell
 npm run dev
 ```
-## Team Members
-- [@Sohan Bandary 2020IMG-016](https://github.com/sohan2410)
-- [@Lakshay Parashar 2020IMG-033](https://github.com/DCoder-1)
-- [@Shivam Saraswat 2020IMT-091](https://github.com/kartikey-shivam)
-- [@Arushi Agarwal 2020IMT-017](https://github.com/arushi2715)
